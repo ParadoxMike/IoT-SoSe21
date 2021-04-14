@@ -2,8 +2,8 @@
 ---
 
 ## Use-Case Diagram
-* [Link PDF](./Use-Case Diagram - Brend Quiz.drawio/)
-* [Link Draw.io File](./Use-Case Diagram - Brend Quiz.pdf)
+* [Link PDF](./Use-Case Diagram - Brend Quiz.pdf)
+* [Link Draw.io File](./Use-Case Diagram - Brend Quiz.drawio/)
 
 ## GUI Prototype
 ### Tafel:
